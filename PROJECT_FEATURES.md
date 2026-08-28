@@ -1,4 +1,4 @@
 # Implement Features
-## FR09: Implement Patient Registration
-Receptionist can register new patients
-**Status: Implemented**
+## FR25: Implement Daily Appointment List
+Authorized staff members can view the daily appointment schedule so that they can prepare for scheduled patients
+**Status Implemented**
